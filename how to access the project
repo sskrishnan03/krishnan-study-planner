@@ -1,0 +1,63 @@
+1. Install Node.js (LTS). Close and reopen your terminal after install.
+2. Verify install:
+```
+node -v
+npm -v
+```
+
+3. download the zip file:
+```
+1. download it and after download extract the file
+2. open folder and click on above header like This PC > (C:) > <something> > in that type CMD and click enter 
+```
+
+4. Install packages:
+```
+npm install
+```
+
+6. Start dev server:
+```
+npm run dev
+```
+
+7. Open the app or website at:
+```
+1. after npm run dev command it will show on link looks like this <http://localhost:5173>
+2. ctrl press link will open - http://localhost:5173
+```
+
+8. Stop the server when needed: press Ctrl + C in the terminal.
+
+
+or 
+
+
+if don't want this above step means 
+
+follow this step : 
+
+1. download the zip file:
+```
+1. download it and after download extract the file
+2. open folder and click on above header like This PC > (C:) > <something> > in that type CMD and click enter 
+```
+
+2. Install packages:
+```
+npm install
+```
+
+3. Start dev server:
+```
+npm run dev
+```
+
+4.once u done this 
+```
+1. go to project
+2. you will see this file (OpenStudyPlanner) 
+3. double click it it will open project in webpage 
+4. Stop the server when needed: press Ctrl + w in the webpage.
+
+
